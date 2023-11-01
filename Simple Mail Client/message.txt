@@ -1,0 +1,5 @@
+Hello World!
+
+This is a mail sent through my Python Simple Mail Client
+
+Sincerely, TheGregDev
